@@ -15,6 +15,7 @@
 		F81CF0A11C9A833400443604 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F81CF09F1C9A833400443604 /* LaunchScreen.storyboard */; };
 		F81CF0AC1C9A833400443604 /* EatDoudouTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F81CF0AB1C9A833400443604 /* EatDoudouTests.m */; };
 		F81CF0B71C9A833400443604 /* EatDoudouUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F81CF0B61C9A833400443604 /* EatDoudouUITests.m */; };
+		F81CF0C51C9AB41600443604 /* Objective-C.gitignore in Resources */ = {isa = PBXBuildFile; fileRef = F81CF0C41C9AB41600443604 /* Objective-C.gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		F81CF0B21C9A833400443604 /* EatDoudouUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EatDoudouUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F81CF0B61C9A833400443604 /* EatDoudouUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EatDoudouUITests.m; sourceTree = "<group>"; };
 		F81CF0B81C9A833500443604 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F81CF0C41C9AB41600443604 /* Objective-C.gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Objective-C.gitignore"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 		F81CF0911C9A833400443604 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F81CF0C41C9AB41600443604 /* Objective-C.gitignore */,
 				F81CF0921C9A833400443604 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -248,6 +251,7 @@
 			files = (
 				F81CF0A11C9A833400443604 /* LaunchScreen.storyboard in Resources */,
 				F81CF09E1C9A833400443604 /* Assets.xcassets in Resources */,
+				F81CF0C51C9AB41600443604 /* Objective-C.gitignore in Resources */,
 				F81CF09C1C9A833400443604 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
